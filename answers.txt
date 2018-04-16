@@ -1,0 +1,26 @@
+1. What branches exist in this project?
+		Current branches
+	master
+	answers
+		Former branches
+	landing
+	landing-ru
+	package
+	bower
+	index
+	
+2. What branch has been merged into master?
+	index
+
+3. How many commits (in total) does the repository have?
+	16
+
+4. What commits belong to branch package that don't belong to the branch master? 
+	Added package
+	Added locked package
+	Added bower
+	Removed lock
+	added landing
+	Added russian landing
+	Added landing content
+	Merge branch 'landing-ru' into landing
